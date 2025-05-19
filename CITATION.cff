@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite our paper:"
+title: "Confidence-Based Active Data Imputation via Distribution
+Matching [Regular]"
+authors:
+  - family-names: Hossain
+    given-names: Zarin Tahia
+    affiliation: Department of Computer Science, Western University
+    email: zarin.hossain@uwo.ca
+  - family-names: Milani
+    given-names: Mostafa
+    affiliation: Department of Computer Science, Western University
+    email: mostafa.milani@uwo.ca
+date-released: 2025-05-13
+version: 1.0.0
+#doi: 10.48550/arXiv.2505.01234  # replace with real DOI/arXiv
+url: https://github.com/ZarinTahia/Confidence-Based-Active-Data-Imputation-via-Distribution-Matching-Regular-.git
