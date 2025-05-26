@@ -22,14 +22,14 @@ openml>=0.12.2
 
 All datasets are automatically downloaded using `fetch_openml` from `scikit-learn`. No manual download is needed.
 
-We use the following real-world datasets in our experiments:
+We used the following real-world datasets in our experiments:
 - **Adult**
 - **Wine**
 - **German Credit**
 - **Diabetic**
 - **Breast Cancer**
 
-### 🔧 Preprocessing Steps:
+### Preprocessing Steps:
 1. **Feature Scaling**:  
    All numerical features are scaled to the \[0, 1\] range using `MinMaxScaler` from `scikit-learn`.
 
