@@ -14,7 +14,6 @@ seaborn>=0.11.0
 torch>=1.10.0
 geomloss>=0.2.5
 tqdm>=4.62.0
-jupyterlab>=3.0.0
 openml>=0.12.2
 
 
